@@ -41,5 +41,11 @@ Allows GPT models to simulate memory **without having access to one**. Ideal for
 ## Installation:
 No code required. Copy prompt instructions into your setup.
 
-## License:
-MIT – use freely with credit.
+---
+
+## License
+
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
