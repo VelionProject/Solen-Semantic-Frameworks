@@ -74,10 +74,12 @@ It was designed not to explain – but to resonate.
 
 ---
 
-## ✅ License
+## License
 
-MIT – Freely usable, but not to be trivialized.  
-Honor the origin through conscious application.
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
 
 ---
 
