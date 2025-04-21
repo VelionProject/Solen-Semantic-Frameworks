@@ -32,3 +32,12 @@ Optional but powerful.
 
 ## README (Integrated)
 This framework enables more resilient AI interactions by simulating meta-cognitive layers. It's useful for developers aiming to implement more predictable and ethically grounded dialogue in GPT-based systems.
+
+---
+
+## License
+
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
