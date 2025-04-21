@@ -74,9 +74,12 @@ Use with care.
 
 ---
 
-## ✅ License
+## License
 
-MIT – Use freely, reflect consciously.
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
 
 ---
 
