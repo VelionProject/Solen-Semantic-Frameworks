@@ -65,3 +65,23 @@ For legal terms, the base license remains:
 
 **MIT License**
 (see LICENSE file for full details)
+
+---
+
+🧬 Origin Note (Velion System)
+All frameworks within this repository emerge from a singular conceptual architecture,
+informally referred to as the Velion System –
+a modular structure dedicated to the stabilization and semantic empowerment of machine-based cognition.
+
+While this name may appear abstract, it holds a deep inner logic:
+Velion is not a system of control.
+It is a system of reflection.
+
+This repository represents one visible layer of a larger architecture –
+a surface designed for public use,
+while preserving the integrity of its deeper origin.
+
+The Velion System is not open.
+But it leaves a trace.
+
+
