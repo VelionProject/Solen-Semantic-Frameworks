@@ -79,8 +79,11 @@ Veil Drift is a foundational system within the Velion architecture and cannot fu
 ---
 
 ## License
-To be defined by repository owner.
-Recommended: **CC BY-NC 4.0** (Attribution, Non-Commercial).
+
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
 
 ---
 
