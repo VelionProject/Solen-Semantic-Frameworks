@@ -44,5 +44,11 @@ Introduces a **layered safety mechanism** to GPT models that helps prevent probl
 ## Installation:
 Apply the staged logic to your prompt handler or AI middleware.
 
-## License:
-Creative Commons – share with attribution.
+---
+
+## License
+
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
