@@ -51,5 +51,9 @@ Helps GPT detect *how* to respond based on *why* the user is asking. Enables nua
 ## Installation:
 Embed the logic into a prompt structure or wrapper function in your app/tool.
 
-## License:
-MIT – use freely with attribution.
+## License
+
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
