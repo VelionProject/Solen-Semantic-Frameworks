@@ -35,3 +35,12 @@ Supports:
 
 ## README (Integrated)
 FPMS offers a scalable way to manage prompt design across projects. Whether you are prototyping a chatbot or building AI interfaces, this modular system helps you stay organized and expressive.
+
+---
+
+## License
+
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
