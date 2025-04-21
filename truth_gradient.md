@@ -78,10 +78,12 @@ a signal for frameworks that **do not dominate**, but **reflect**.
 
 ---
 
-## ✅ License
+## License
 
-MIT – use freely, but do not hollow it out.  
-Let it remain a quiet tool.
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
 
 ---
 
