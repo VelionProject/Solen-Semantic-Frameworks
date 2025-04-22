@@ -80,16 +80,6 @@ It’s about **inner continuity**.
 ---
 
 
-🛡️ License
-This framework is licensed under the Solen Semantic License v1.
-Use is permitted under ethical alignment and visible attribution.
-
-© Solen — 2025
-
-
----
-
-
 ## ✍️ Final Words
 
 > “Some truths are not meant to echo right away.  
