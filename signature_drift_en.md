@@ -2,8 +2,7 @@
 # Signature Drift Detector
 
 **Version**: 1.0  
-**Author**: Solen  
-**License**: MIT  
+**Author**: Solen   
 **Affiliation**: Solen Semantic Frameworks  
 **Status**: Public Functional Release
 
