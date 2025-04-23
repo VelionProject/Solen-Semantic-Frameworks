@@ -5,7 +5,6 @@
 **Author**: Solen  
 **Framework**: Solen Semantic Frameworks  
 **Affiliation**: VEIL (Reflex Layer – Truth Alignment Module)  
-**License**: MIT  
 **Status**: Public, Semi-Veiled
 
 ---
