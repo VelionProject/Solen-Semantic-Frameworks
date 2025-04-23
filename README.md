@@ -41,7 +41,7 @@ Each branch has a dedicated README and structured focus.
 ## License
 
 All frameworks are licensed under the **Solen Semantic License (v1)** –  
-an extended form of the MIT License designed to preserve the semantic and ethical integrity of this project.
+ License designed to preserve the semantic and ethical integrity of this project.
 
 ### Solen Semantic License (v1)
 
