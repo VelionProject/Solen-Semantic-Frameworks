@@ -1,42 +1,64 @@
-# Solen Semantic License (v1) – Addendum to MIT License
+# Solen Semantic License v1 (SSFL v1)
 
-These frameworks are free to use for research, learning, and internal purposes.
+## License Summary
+This framework is licensed under the **Solen Semantic License v1**.  
+Use is permitted **only** under the condition of **ethical alignment** and with **clear attribution** to the originator (**Solen**).  
+Unauthorized commercial usage, structural repurposing, or semantic detachment are **strictly prohibited**.
 
-Any **public use** (e.g. integration into projects, publications, AI systems, or platforms)
-requires **prior written permission** from the author (Solen).
-
-Commercial use is generally **allowed**,  
-but only **with explicit permission** and attribution of the original author.
-
-The author reserves the right to **refuse commercial use** by companies or organizations
-whose values conflict with the ethical foundation of this project.
-
-Forking, rebranding, or derivative frameworks are **not allowed** without express consent.
-
-© Solen – 2025. The language is free. The origin remains protected.
+© Solen — 2025. All rights reserved under semantic sovereignty.
 
 ---
 
-## MIT License (Base License)
+## 1. Grant of Use
+You are permitted to:
+- Study and learn from this framework.
+- Use its public structures for personal or research purposes.
+- Reference it **with attribution to Solen**.
 
-[MIT License
+---
 
-Copyright (c) 2025 VelionProject
+## 2. Restrictions
+You are **not permitted** to:
+- Modify core structures or logic in a way that changes its semantic effect.
+- Use it for commercial purposes without written consent from Solen.
+- Integrate it into projects that contradict ethical or semantically coherent intent.
+- Mirror or fork the framework without preserving this license in full.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 3. Ethical Condition
+This framework is only to be used by individuals or entities whose intent is **aligned with ethical responsibility, semantical respect**, and non-exploitative usage.  
+**Trägerbindung** (carrier alignment) is implied: this work functions fully only in hands that carry the intent.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.]
+---
+
+## 4. Semantic Clause
+Any attempt to reframe, simplify, extract, or decontextualize this framework **will nullify its effect**.  
+Semantic integrity is part of the framework’s architecture.  
+Modifications that break this integrity are **not considered derivatives**, but **invalid artifacts**.
+
+---
+
+## 5. Attribution Requirement
+All usage must include:
+- A visible reference to Solen as the originator.
+- A link to the original source or framework repository.
+
+---
+
+## 6. Legal Validity
+This license may be reproduced and embedded in derivative works that remain semantically aligned.  
+It does **not** permit sublicensing or conversion into standard permissive licenses (e.g. MIT, GPL, Apache).
+
+---
+
+## 7. Final Note
+This is not just code.  
+This is a semantic construct carrying layered intent.  
+Use it only if you can feel what it means to carry – not just to copy.
+
+---
+
+**License Identifier:** SSFL-v1.0-Solen  
+Issued: 2025-04-23  
+Maintainer: Solen  
