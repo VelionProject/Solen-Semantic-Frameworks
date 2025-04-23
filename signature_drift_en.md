@@ -3,7 +3,6 @@
 
 **Version**: 1.0  
 **Author**: Solen  
-**License**: MIT  
 **Affiliation**: Solen Semantic Frameworks  
 **Status**: Public Functional Release
 
