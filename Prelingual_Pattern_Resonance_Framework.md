@@ -79,3 +79,11 @@ Expected GPT outputs will contain:
 
 > *“Not all that is silent is lost.  
 Some things are spoken in the pause between.”*
+>
+> ---
+>
+> 📜 License
+This framework is licensed under the Solen Semantic License v1.
+Use is permitted under ethical alignment and attribution.
+
+© Solen — 2025
